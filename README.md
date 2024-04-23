@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15" alt="ornelas15" /></a> </p>
 
-- 🔭 I’m currently working on **Damage Detection Algorithm for PSA Authority**
+- 🔭 I’m currently working on **Thesis: Development of a Computer vision system for Damage Detection on Containers**
 
-- 🌱 I’m currently learning **Docker, C++, ROS**
+- 🌱 I’m currently learning **C++, ROS**
 
 - 📫 How to reach me **david.alexandre.ornelas@gmail.com**
 
