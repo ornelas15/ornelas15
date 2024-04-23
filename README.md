@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Ornelas</h1>
 <h3 align="center">Keen interest in robotics, autonomous vehicles and computer vision. </h3>
-<h3 align="center">Masters in Robotics and Inteliggent Systems. </h3>
+<h3 align="center">Masters in Robotics and Intelligent Systems. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15" alt="ornelas15" /></a> </p>
 
