@@ -2,7 +2,7 @@
 <h3 align="center">Keen interest in robotics, autonomous vehicles and computer vision. </h3>
 <h3 align="center">Masters in Robotics and Intelligent Systems. </h3>
 
-- :mechanical_arm: Currently working on **Thesis: Development of a Computer vision system for Damage Detection on Containers**
+- :mechanical_arm: Currently working on **Algorithm for Defect Detection on Containers**
 
 - :brain: Self learning **C++, ROS** 
 
