@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on **Thesis: Development of a Computer vision system for Damage Detection on Containers**
 
-- 🌱 Self learning **C++, ROS**
+- 🌱 Self learning **C++, ROS** 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
