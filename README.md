@@ -2,9 +2,9 @@
 <h3 align="center">Keen interest in robotics, autonomous vehicles and computer vision. </h3>
 <h3 align="center">Masters in Robotics and Intelligent Systems. </h3>
 
-- 🔭 Currently working on **Thesis: Development of a Computer vision system for Damage Detection on Containers**
+- :mechanical_arm: Currently working on **Thesis: Development of a Computer vision system for Damage Detection on Containers**
 
-- 🌱 Self learning **C++, ROS** 
+- :brain: Self learning **C++, ROS** 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,7 +15,8 @@
 </a>  
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15" alt="ornelas15" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15&rank=A,B,C&theme=apprentice" alt="ornelas15" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
