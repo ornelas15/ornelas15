@@ -4,16 +4,7 @@
 
 - :mechanical_arm: Currently working on **Algorithm for Defect Detection on Containers**
 
-- :brain: Self learning **C++, ROS** 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-theta-weld.vercel.app/api?username=ornelas15&hide=contribs,prs&rank_icon=github&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats-theta-weld.vercel.app/api/top-langs/?username=ornelas15&layout=compact&hide=awk,shell" />
-</a>  
-
+- :brain: Self learning **C++, ROS**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15&rank=A,B,C&theme=apprentice" alt="ornelas15" /></a> </p>
