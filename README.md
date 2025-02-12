@@ -6,6 +6,7 @@
 
 - :brain: Self learning **C++, ROS**
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-theta.vercel.app?user=ornelas15&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15&rank=A,B,C&theme=apprentice" alt="ornelas15" /></a> </p>
 
