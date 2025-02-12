@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornelas15&rank=A,B,C&theme=apprentice" alt="ornelas15" /></a> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
